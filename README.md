@@ -139,3 +139,8 @@ npx degit github:actionanand/ar-resume-api#1-skeleton ts-server-prj
 ## Other resources
 
 * [Replacement for git clone - degit](https://dev.to/vuelancer/replacement-for-git-clone-degit-3lf1)
+
+## Other Projects
+
+* [JSON Server - github](https://github.com/actionanand/json-server)
+* [TS Server - github](https://github.com/actionanand/ts-server)
