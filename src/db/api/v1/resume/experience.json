@@ -1,0 +1,44 @@
+[
+  {
+    "id": "1",
+    "title": "Senior Software Engineer",
+    "company": "Google",
+    "location": "Jan 2021 to till now, Bangalore",
+    "duration": ["Jan 21 2021"],
+    "technologies": ["Angular", "React", "NodeJS", "Python", "Single-spa"],
+    "summary": [
+      "Developed a new feature for the Google search engine",
+      "Worked on the Google Maps API",
+      "Improved the performance of the Google search engine",
+      "Contributed on developing the admin dashboard with different charts and insights for the application"
+    ]
+  },
+  {
+    "id": "2",
+    "title": "Software Engineer",
+    "company": "Microsoft",
+    "location": "Jan 2019 to Dec 2020, Hyderabad",
+    "duration": ["Jan 13 2019", "Dec 06 2020"],
+    "technologies": ["Angular", "Vue", "C++", "C", "Typescript"],
+    "summary": [
+      "Developed a new feature for the Microsoft search engine",
+      "Worked on the Microsoft Maps API",
+      "Improved the performance of the Microsoft search engine",
+      "Contributed on developing the admin dashboard with different charts and insights for the application"
+    ]
+  },
+  {
+    "id": "3",
+    "title": "Associate Software Engineer",
+    "company": "Infosys",
+    "location": "Jan 2017 to Dec 2018, Mysore",
+    "duration": ["Jan 29 2017", "Dec 21 2018"],
+    "technologies": ["Angular", "React", "NodeJS", "C#", "Javascript"],
+    "summary": [
+      "Developed a new feature for the Infosys search engine",
+      "Worked on the Infosys Maps API",
+      "Improved the performance of the Infosys search engine",
+      "Contributed on developing the admin dashboard with different charts and insights for the application"
+    ]
+  }
+]

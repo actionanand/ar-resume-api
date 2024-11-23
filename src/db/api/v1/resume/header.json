@@ -1,0 +1,24 @@
+{
+  "skills": [ "Angular", "Single-Spa", "React", "Vue JS", "Javascript", "CSS", "HTML", "Web Design", "Node JS", "Python", "Public Speaking", "Unit Test", "C", "C++", "Java", "C#" ],
+  "socialmedia-icons": [
+    { "name": "linkedIn", "url": "linkedin.com/in/anand-ns" },
+    { "name": "github", "url": "https://github.com/actionanand/" },
+    { "name": "stackoverflow", "url": "tackoverflow.com/users/10907720/anand-raja" },
+    { "name": "twitter", "url": "https://twitter.com/actionanand" },
+    { "name": "youtube", "url": "https://www.youtube.com/@actionanand13" },
+    { "name": "facebook", "url": "https://www.facebook.com/actionanand" },
+    { "name": "instagram", "url": "https://www.instagram.com/actionanand" }
+  ],
+  "typewriter": [
+    "Hello World",
+    "What are you up to?",
+    "Angular development",
+    "MEAN Stack development"
+  ],
+  "profile": {
+    "title": "Portfolio Of Anand",
+    "name": "Anand N S",
+    "designation": "Senior Software Engineer",
+    "status": "OPEN TO WORK"
+  }
+}

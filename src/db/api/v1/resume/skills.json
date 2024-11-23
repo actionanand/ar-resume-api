@@ -1,0 +1,30 @@
+[
+  {
+    "title": "Technologies",
+    "tags": [
+      { "name": "JavaScript, BootStrap, Angular", "progress": "80" },
+      { "name": "Java, J2EE, Spring, C#", "progress": "70" },
+      { "name": "Python, C++", "progress": "60" },
+      { "name": "css", "progress": "40" },
+      { "name": "single-spa", "progress": "30" }
+    ]
+  },
+  {
+    "title": "Tools",
+    "tags": [
+      { "name": "Git", "progress": "80" },
+      { "name": "WSL, Linux, Windows", "progress": "70" },
+      { "name": "Office", "progress": "60" },
+      { "name": "Docker", "progress": "40" },
+      { "name": "SQL, MongoDB", "progress": "30" }
+    ]
+  },
+  {
+    "title": "Methodologies",
+    "tags": [
+      { "name": "Scrum", "progress": "80" },
+      { "name": "DevOps", "progress": "70" },
+      { "name": "Design", "progress": "60" }
+    ]
+  }
+]
