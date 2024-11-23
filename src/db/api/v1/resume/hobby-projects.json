@@ -1,0 +1,86 @@
+[
+  {
+    "name": "Single Spa project",
+    "description":
+      "The Chihuahua is a Mexican breed of toy dog. It is named for the Mexican state of Chihuahua and is among the smallest of all dog breeds. It is usually kept as a companion animal or for showing.",
+    "sourceLink": "https://github.com/actionanand/ar-portfolio",
+    "demoLink": "https://actionanand.github.io/ng-feature-pagination/ui-pagination",
+    "tech": ["singl-spa", "angular", "css", "html", "javascript", "react"],
+    "image": "singleSpa"
+  },
+  {
+    "name": "Angular project",
+    "description": "The Chihuahua is a Mexican breed of toy dog. It is named for the Mexican state of Chihuahua a vue",
+    "sourceLink": "https://github.com/actionanand/ar-portfolio",
+    "demoLink": "https://actionanand.github.io/ng-feature-pagination/ui-pagination",
+    "tech": ["angular", "css", "html", "javascript"]
+  },
+  {
+    "name": "React project",
+    "description":
+      "it is a React project The Chihuahua is a Mexican breed of toy dog. It is named for the Mexican state of Chihuahua a",
+    "sourceLink": "https://github.com/actionanand/ar-portfolio",
+    "demoLink": "https://actionanand.github.io/ng-feature-pagination/ui-pagination",
+    "tech": ["react", "css", "html", "javascript"]
+  },
+  {
+    "name": "Single Spa project 1",
+    "description":
+      "123 The Chihuahua is a Mexican breed of toy dog. It is named for the Mexican state of Chihuahua and is among the smallest of all dog breeds. It is usually kept as a companion animal or for showing.",
+    "sourceLink": "https://github.com/actionanand/ar-portfolio",
+    "demoLink": "https://actionanand.github.io/ng-feature-pagination/ui-pagination",
+    "image": "singleSpa",
+    "tech": ["singl-spa", "angular", "css", "html", "javascript", "react"]
+  },
+  {
+    "name": "Angular project 34",
+    "description": "it is a Angular project 34",
+    "sourceLink": "https://github.com/actionanand/ar-portfolio",
+    "demoLink": "https://actionanand.github.io/ng-feature-pagination/ui-pagination",
+    "tech": ["angular", "css", "html", "javascript"]
+  },
+  {
+    "name": "React project 56",
+    "description": "it is a React project 56",
+    "sourceLink": "https://github.com/actionanand/ar-portfolio",
+    "demoLink": "https://actionanand.github.io/ng-feature-pagination/ui-pagination",
+    "tech": ["react", "css", "html", "javascript"]
+  },
+  {
+    "name": "Single Spa project 023",
+    "description":
+      "023 The Chihuahua is a Mexican breed of toy dog. It is named for the Mexican state of Chihuahua and is among the smallest of all dog breeds. It is usually kept as a companion animal or for showing.",
+    "sourceLink": "https://github.com/actionanand/ar-portfolio",
+    "demoLink": "https://actionanand.github.io/ng-feature-pagination/ui-pagination",
+    "image": "singleSpa",
+    "tech": ["angular", "css", "html", "javascript", "single-spa"]
+  },
+  {
+    "name": "Angular project 987",
+    "description": "it is a Angular project 987",
+    "sourceLink": "https://github.com/actionanand/ar-portfolio",
+    "demoLink": "https://actionanand.github.io/ng-feature-pagination/ui-pagination",
+    "tech": ["angular", "css", "html", "javascript"]
+  },
+  {
+    "name": "React project 543",
+    "description": "it is a React project 543",
+    "sourceLink": "https://github.com/actionanand/ar-portfolio",
+    "demoLink": "https://actionanand.github.io/ng-feature-pagination/ui-pagination",
+    "tech": ["react", "css", "html", "javascript"]
+  },
+  {
+    "name": "Angular project 654",
+    "description": "it is a Angular project 654",
+    "sourceLink": "https://github.com/actionanand/ar-portfolio",
+    "demoLink": "https://actionanand.github.io/ng-feature-pagination/ui-pagination",
+    "tech": ["angular", "css", "html", "javascript"]
+  },
+  {
+    "name": "React project 90",
+    "description": "it is a React project 90",
+    "sourceLink": "https://github.com/actionanand/ar-portfolio",
+    "demoLink": "https://actionanand.github.io/ng-feature-pagination/ui-pagination",
+    "tech": ["react", "css", "html", "javascript"]
+  }
+]

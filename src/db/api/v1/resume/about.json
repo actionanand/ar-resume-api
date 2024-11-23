@@ -1,0 +1,24 @@
+{
+  "title": "Web Developer",
+  "objective":
+    "To obtain Professional and financial heights, both for the organization and self, through my skills and knowledge with sincerity, dedication and honesty along with the team, in a corporate Web based IT organization where I would like to come up with new and innovative ideas as well as knowledge and skills in NodeJs - Javascript stack to develop user friendly and responsive web applications.",
+  "professionalSummary":
+    "More than 5 years (and overall 7 years in IT industry) experienced Angular developer, who’s enthusiastic about writing clean and efficient codes in Angular framework, able to handle complex situation, keen to learn more and like to be value addition to the team.",
+  "identity": [
+    { "label": "Qualification", "value": "B.E (Electronics and Communications)" },
+    { "label": "E-mail", "value": "this-is-a-test@email.id" },
+    { "label": "Phone", "value": "+91-9876543210" },
+    { "label": "Locality", "value": "Bangalore, India" },
+    { "label": "Vernaculars", "value": "English, Tamil, Hindi and Kannada (basic)" }
+  ],
+  "cv": [
+    { "label": "Hobbies", "value": "Surfing about new technologies and Listening to music" },
+    { "label": "Board Games", "value": "Chess, Carrom and Ludo" }
+  ],
+  "recognition": [
+    "Received “Best Employee of the Month” award in Infosys",
+    "Nominated for budding super start",
+    "Received 'Company shares for best performance'",
+    "Trainer for Angular in Infosys"
+  ]
+}
