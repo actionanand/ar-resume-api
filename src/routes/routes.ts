@@ -7,6 +7,7 @@ import { getOldApi, getNewApi } from './extra/get-extra.route';
 import { postOldApi, postNewApi } from './extra/post-extra.route';
 import { getGeneralRoutev1 } from './general/get-general.route';
 import { getHtmlSample, getPdfRemote, getPdfStatic } from './static/static-files.routes';
+import { getResumeAbout, getResumeExperience, getResumeHeader, getResumeHobbyProject, getResumeSkills } from './resume/get-resume.route';
 
 const router = express.Router();
 
@@ -40,5 +41,12 @@ router.route('/api/v1/static/html/sample.html').get(getHtmlSample);
 // General APIs
 router.route('/api/v1/:name').get(getGeneralRoutev1);
 router.route('/api/v2/:name').get(getGeneralRoutev1);
+
+// Resume APIs
+router.route('/api/v1/resume/experience').get(getResumeExperience);
+router.route('/api/v1/resume/about').get(getResumeAbout);
+router.route('/api/v1/resume/header').get(getResumeHeader);
+router.route('/api/v1/resume/hobby-projects').get(getResumeHobbyProject);
+router.route('/api/v1/resume/skills').get(getResumeSkills);
 
 export { router as allRegisteredRoutes };
