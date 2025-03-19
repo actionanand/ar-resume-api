@@ -1,9 +1,9 @@
 {
   "skills": [ "Angular", "Single-Spa", "React", "Vue JS", "Javascript", "CSS", "HTML", "Web Design", "Node JS", "Python", "Public Speaking", "Unit Test", "C", "C++", "Java", "C#" ],
   "socialmedia-icons": [
-    { "name": "linkedIn", "url": "linkedin.com/in/anand-ns" },
+    { "name": "linkedIn", "url": "https://linkedin.com/in/anand-ns" },
     { "name": "github", "url": "https://github.com/actionanand/" },
-    { "name": "stackoverflow", "url": "tackoverflow.com/users/10907720/anand-raja" },
+    { "name": "stackoverflow", "url": "https://stackoverflow.com/users/10907720/anand-raja" },
     { "name": "twitter", "url": "https://twitter.com/actionanand" },
     { "name": "youtube", "url": "https://www.youtube.com/@actionanand13" },
     { "name": "facebook", "url": "https://www.facebook.com/actionanand" },
