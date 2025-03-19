@@ -46,7 +46,7 @@ router.route('/api/v2/:name').get(getGeneralRoutev1);
 router.route('/api/v1/resume/experience').get(getResumeExperience);
 router.route('/api/v1/resume/about').get(getResumeAbout);
 router.route('/api/v1/resume/header').get(getResumeHeader);
-router.route('/api/v1/resume/hobby-projects').get(getResumeHobbyProject);
+router.route('/api/v1/resume/projects').get(getResumeHobbyProject);
 router.route('/api/v1/resume/skills').get(getResumeSkills);
 
 export { router as allRegisteredRoutes };
