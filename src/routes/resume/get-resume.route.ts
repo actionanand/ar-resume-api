@@ -15,7 +15,7 @@ export function getResumeHeader(req: Request, res: Response) {
 }
 
 export function getResumeHobbyProject(req: Request, res: Response) {
-  res.status(200).sendFile(path.join(__dirname + '../../../db/api/v1/resume/hobby-projects.json'));
+  res.status(200).sendFile(path.join(__dirname + '../../../db/api/v1/resume/projects.json'));
 }
 
 export function getResumeSkills(req: Request, res: Response) {
