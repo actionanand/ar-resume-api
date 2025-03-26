@@ -1,44 +1,74 @@
 [
   {
     "id": "1",
-    "title": "Senior Software Engineer",
-    "company": "Google",
-    "location": "Jan 2021 to till now, Bangalore",
-    "duration": ["Jan 21 2021"],
-    "technologies": ["Angular", "React", "NodeJS", "Python", "Single-spa"],
+    "title": "Analyst",
+    "company": "HCL Technologies",
+    "location": "Nov 2017 to Oct 2019, Delhi NCR",
+    "duration": ["Nov 08 2017", "Oct 09 2019"],
+    "technologies": ["LTE", "VOLTE", "R4", "Macro", "Postgres"],
     "summary": [
-      "Developed a new feature for the Google search engine",
-      "Worked on the Google Maps API",
-      "Improved the performance of the Google search engine",
-      "Contributed on developing the admin dashboard with different charts and insights for the application"
+      "Working for R4 and LTE projects for Belgacom (Proximus)",
+      "Developed a automated tool for Belgacom (Proximus) to reduce the manual effort",
+      "Handling Postgres DB for the project"
     ]
   },
   {
     "id": "2",
-    "title": "Software Engineer",
-    "company": "Microsoft",
-    "location": "Jan 2019 to Dec 2020, Hyderabad",
-    "duration": ["Jan 13 2019", "Dec 06 2020"],
-    "technologies": ["Angular", "Vue", "C++", "C", "Typescript"],
+    "title": "Analyst",
+    "company": "HCL Technologies",
+    "location": "Oct 2019 to June 2020, Delhi NCR",
+    "duration": ["Oct 09 2019", "June 08 2020"],
+    "technologies": ["Angular", "RoR", "Postgres", "Javascript"],
     "summary": [
-      "Developed a new feature for the Microsoft search engine",
-      "Worked on the Microsoft Maps API",
-      "Improved the performance of the Microsoft search engine",
-      "Contributed on developing the admin dashboard with different charts and insights for the application"
+      "Working for HCL homegrown social network called \"Meme\" to collaborate with the employees",
+      "Used latest technologies to develop the application"
     ]
   },
   {
     "id": "3",
-    "title": "Associate Software Engineer",
-    "company": "Infosys",
-    "location": "Jan 2017 to Dec 2018, Mysore",
-    "duration": ["Jan 29 2017", "Dec 21 2018"],
-    "technologies": ["Angular", "React", "NodeJS", "C#", "Javascript"],
+    "title": "Software Development Engineer (Analyst)",
+    "company": "HCL Technologies & Clarivate",
+    "location": "June 2020 to Jan 2021, Bangalore",
+    "duration": ["June 08 2020", "Jan 05 2021"],
+    "technologies": ["Angular", "Single-spa", "NodeJS", "Javascript"],
     "summary": [
-      "Developed a new feature for the Infosys search engine",
-      "Worked on the Infosys Maps API",
-      "Improved the performance of the Infosys search engine",
-      "Contributed on developing the admin dashboard with different charts and insights for the application"
+      "Fixed the unresolved bugs in reasonable time",
+      "Developed a library based angular application for resuable components",
+      "Migrated weekly alerts to Angular from Angular JS",
+      "Worked with customized material based navigation in Angular",
+      "Refactorred the code & removed unwanted css styles to improve the performance"
+    ]
+  },
+  {
+    "id": "4",
+    "title": "Software Engineer",
+    "company": "Clarivate",
+    "location": "Jan 2021 to March 2024, Bangalore",
+    "duration": ["Jan 06 2021", "March 31 2024"],
+    "technologies": ["Angular", "Single-spa", "Oracle", "Javascript", "Typescript"],
+    "summary": [
+      "The Product was CRI (Cortellis Regulatory Intelligence) which is a web application",
+      "Migrated Angular 6 to Angular 9",
+      "Worked extensively on micro frontend architecture with single-spa",
+      "Redifined a way of cross application communication",
+      "Developed a feature to manage states between the micro frontends",
+      "Enhanced the application to manage the user authentication between the micro frontends"
+    ]
+  },
+  {
+    "id": "5",
+    "title": "Senior Software Engineer",
+    "company": "Clarivate",
+    "location": "April 2024 to till now, Bangalore",
+    "duration": ["April 01 2024"],
+    "technologies": ["Angular", "Single-spa", "NodeJS", "Python", "Oracle", "Postgres", "Javascript", "Typescript"],
+    "summary": [
+      "Migrated Angular 9 to Angular 18",
+      "rewrote deprecated third party libraries to the latest version",
+      "Handled all the deprecation and migrated to material m3",
+      "Rewrote single-spa configuration to handle the new micro frontends",
+      "Rewrote the code to support new signals and other new angular features",
+      "Managing Django based backend for the RICS (Regulatory Intelligence Compliance System) application"
     ]
   }
 ]

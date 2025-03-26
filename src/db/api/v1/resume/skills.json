@@ -2,29 +2,29 @@
   {
     "title": "Technologies",
     "tags": [
-      { "name": "JavaScript, BootStrap, Angular", "progress": "80" },
-      { "name": "Java, J2EE, Spring, C#", "progress": "70" },
-      { "name": "Python, C++", "progress": "60" },
-      { "name": "css", "progress": "40" },
-      { "name": "single-spa", "progress": "30" }
+      { "name": "Angular, JavaScript, Typescript", "progress": "85" },
+      { "name": "Node & other JS Frameworks", "progress": "60" },
+      { "name": "Python", "progress": "30" },
+      { "name": "css, HTML, C++", "progress": "70" },
+      { "name": "single-spa", "progress": "75" }
     ]
   },
   {
     "title": "Tools",
     "tags": [
       { "name": "Git", "progress": "80" },
-      { "name": "WSL, Linux, Windows", "progress": "70" },
-      { "name": "Office", "progress": "60" },
-      { "name": "Docker", "progress": "40" },
-      { "name": "SQL, MongoDB", "progress": "30" }
+      { "name": "WSL, Linux, Windows", "progress": "75" },
+      { "name": "VS Code, Sublime", "progress": "70" },
+      { "name": "Docker, AWS", "progress": "50" },
+      { "name": "SQL, MongoDB", "progress": "60" }
     ]
   },
   {
     "title": "Methodologies",
     "tags": [
       { "name": "Scrum", "progress": "80" },
-      { "name": "DevOps", "progress": "70" },
-      { "name": "Design", "progress": "60" }
+      { "name": "DevOps (Jenkins, Spinnaker, Rundeck & Airflow, etc)", "progress": "50" },
+      { "name": "Agile", "progress": "70" }
     ]
   }
 ]
