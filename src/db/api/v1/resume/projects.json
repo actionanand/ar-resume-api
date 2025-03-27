@@ -1,33 +1,39 @@
 [
   {
-    "name": "Single Spa project",
-    "description":
-      "The Chihuahua is a Mexican breed of toy dog. It is named for the Mexican state of Chihuahua and is among the smallest of all dog breeds. It is usually kept as a companion animal or for showing.",
+    "name": "Cortellis Regulatory Intelligence",
+    "description": "Clarivate is a global leader in providing trusted insights and analytics to accelerate innovation. It was formerly part of Thomson Reuters, specifically its Intellectual Property and Science division. In 2016, this division was spun off and rebranded as Clarivate Analytics.<br><br>Cortellis Regulatory Intelligence (CRI) is a product offered by Clarivate that provides comprehensive regulatory intelligence solutions. It is designed to help organizations stay compliant with global regulatory requirements by offering tools and insights for managing regulatory processes.",
     "sourceLink": "https://github.com/actionanand/ar-portfolio",
-    "demoLink": "https://actionanand.github.io/ng-feature-pagination/ui-pagination",
-    "tech": ["singl-spa", "angular", "css", "html", "javascript", "react"],
-    "image": "singleSpa"
+    "demoLink": "https://www.cortellis.com/intelligence/suite/home/ri/all",
+    "tech": ["angular", "single-spa", "oracle", "javascript", "typescript"],
+    "image": "CLARIVATE_CRI",
+    "projectType": "Clarivate CRI Project"
   },
   {
-    "name": "Angular project",
-    "description": "The Chihuahua is a Mexican breed of toy dog. It is named for the Mexican state of Chihuahua a vue",
-    "sourceLink": "https://github.com/actionanand/ar-portfolio",
-    "demoLink": "https://actionanand.github.io/ng-feature-pagination/ui-pagination",
-    "tech": ["angular", "css", "html", "javascript"],
-    "projectType": "Clarivate Project"
+    "name": "Single Spa polyglot project",
+    "description": "This is a polyglot Single-Spa root configuration application (built on vanilla js) designed to orchestrate multiple microfrontend applications. It works in conjunction with eleven other repositories, each representing a microfrontend. Together, they form a modular and scalable application architecture where each microfrontend can be developed, updated, and deployed independently, enabling seamless integration and efficient maintenance.",
+    "sourceLink": "https://github.com/actionanand/single-spa-demo-root-config",
+    "demoLink": "https://ar-single-spa.onrender.com/",
+    "tech": ["singl-spa", "angular", "css", "javascript", "react", "vue", "svelte"],
+    "image": "SSPA"
+  },
+  {
+    "name": "Single Spa Angular project",
+    "description": "This is a angular Single-Spa root configuration application designed to orchestrate multiple microfrontend applications. It works in conjunction with eleven other repositories, each representing a microfrontend. Together, they form a modular and scalable application architecture where each microfrontend can be developed, updated, and deployed independently, enabling seamless integration and efficient maintenance.",
+    "sourceLink": "https://github.com/actionanand/single-spa-angular-root-config",
+    "demoLink": "https://single-spa-angular.onrender.com/",
+    "tech": ["angular", "singl-spa", "css", "react", "vue", "svelte", "javascript"],
+    "image": "SSPA_NG"
   },
   {
     "name": "React project",
-    "description":
-      "it is a React project The Chihuahua is a Mexican breed of toy dog. It is named for the Mexican state of Chihuahua a",
+    "description": "it is a React project The Chihuahua is a Mexican breed of toy dog. It is named for the Mexican state of Chihuahua a",
     "sourceLink": "https://github.com/actionanand/ar-portfolio",
     "demoLink": "https://actionanand.github.io/ng-feature-pagination/ui-pagination",
     "tech": ["react", "css", "html", "javascript"]
   },
   {
     "name": "Single Spa project 1",
-    "description":
-      "123 The Chihuahua is a Mexican breed of toy dog. It is named for the Mexican state of Chihuahua and is among the smallest of all dog breeds. It is usually kept as a companion animal or for showing.",
+    "description": "123 The Chihuahua is a Mexican breed of toy dog. It is named for the Mexican state of Chihuahua and is among the smallest of all dog breeds. It is usually kept as a companion animal or for showing.",
     "sourceLink": "https://github.com/actionanand/ar-portfolio",
     "demoLink": "https://actionanand.github.io/ng-feature-pagination/ui-pagination",
     "image": "singleSpa",
@@ -49,39 +55,10 @@
   },
   {
     "name": "Single Spa project 023",
-    "description":
-      "023 The Chihuahua is a Mexican breed of toy dog. It is named for the Mexican state of Chihuahua and is among the smallest of all dog breeds. It is usually kept as a companion animal or for showing.",
+    "description": "023 The Chihuahua is a Mexican breed of toy dog. It is named for the Mexican state of Chihuahua and is among the smallest of all dog breeds. It is usually kept as a companion animal or for showing.",
     "sourceLink": "https://github.com/actionanand/ar-portfolio",
     "demoLink": "https://actionanand.github.io/ng-feature-pagination/ui-pagination",
     "image": "singleSpa",
     "tech": ["angular", "css", "html", "javascript", "single-spa"]
-  },
-  {
-    "name": "Angular project 987",
-    "description": "it is a Angular project 987",
-    "sourceLink": "https://github.com/actionanand/ar-portfolio",
-    "demoLink": "https://actionanand.github.io/ng-feature-pagination/ui-pagination",
-    "tech": ["angular", "css", "html", "javascript"]
-  },
-  {
-    "name": "React project 543",
-    "description": "it is a React project 543",
-    "sourceLink": "https://github.com/actionanand/ar-portfolio",
-    "demoLink": "https://actionanand.github.io/ng-feature-pagination/ui-pagination",
-    "tech": ["react", "css", "html", "javascript"]
-  },
-  {
-    "name": "Angular project 654",
-    "description": "it is a Angular project 654",
-    "sourceLink": "https://github.com/actionanand/ar-portfolio",
-    "demoLink": "https://actionanand.github.io/ng-feature-pagination/ui-pagination",
-    "tech": ["angular", "css", "html", "javascript"]
-  },
-  {
-    "name": "React project 90",
-    "description": "it is a React project 90",
-    "sourceLink": "https://github.com/actionanand/ar-portfolio",
-    "demoLink": "https://actionanand.github.io/ng-feature-pagination/ui-pagination",
-    "tech": ["react", "css", "html", "javascript"]
   }
 ]
