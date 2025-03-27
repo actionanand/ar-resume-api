@@ -13,7 +13,8 @@
     "description": "The Chihuahua is a Mexican breed of toy dog. It is named for the Mexican state of Chihuahua a vue",
     "sourceLink": "https://github.com/actionanand/ar-portfolio",
     "demoLink": "https://actionanand.github.io/ng-feature-pagination/ui-pagination",
-    "tech": ["angular", "css", "html", "javascript"]
+    "tech": ["angular", "css", "html", "javascript"],
+    "projectType": "Clarivate Project"
   },
   {
     "name": "React project",
