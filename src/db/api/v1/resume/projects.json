@@ -1,7 +1,7 @@
 [
   {
     "name": "Cortellis Regulatory Intelligence",
-    "description": "Clarivate is a global leader in providing trusted insights and analytics to accelerate innovation. It was formerly part of Thomson Reuters, specifically its Intellectual Property and Science division. In 2016, this division was spun off and rebranded as Clarivate Analytics.<br><br>Cortellis Regulatory Intelligence (CRI) is a product offered by Clarivate that provides comprehensive regulatory intelligence solutions. It is designed to help organizations stay compliant with global regulatory requirements by offering tools and insights for managing regulatory processes.",
+    "description": "Clarivate is a global leader in providing trusted insights and analytics to accelerate innovation.<ul><li>It was formerly part of Thomson Reuters, specifically its Intellectual Property and Science division.</li><li>In 2016, this division was spun off and rebranded as Clarivate Analytics.</li><li>Cortellis Regulatory Intelligence (CRI) is a product offered by Clarivate that provides comprehensive regulatory intelligence solutions.</li><li>It is designed to help organizations stay compliant with global regulatory requirements by offering tools and insights for managing regulatory processes.</li></ul>",
     "sourceLink": "https://github.com/actionanand/ar-portfolio",
     "demoLink": "https://www.cortellis.com/intelligence/suite/home/ri/all",
     "tech": ["angular", "single-spa", "oracle", "javascript", "typescript"],
@@ -10,7 +10,7 @@
   },
   {
     "name": "Single Spa polyglot project",
-    "description": "This is a polyglot Single-Spa root configuration application (built on vanilla js) designed to orchestrate multiple microfrontend applications. It works in conjunction with eleven other repositories, each representing a microfrontend. Together, they form a modular and scalable application architecture where each microfrontend can be developed, updated, and deployed independently, enabling seamless integration and efficient maintenance.",
+    "description": "This is a polyglot Single-Spa root configuration application (built on vanilla js) designed to orchestrate multiple microfrontend applications.<ul><li>It works in conjunction with eleven other repositories, each representing a microfrontend.</li><li>Together, they form a modular and scalable application architecture.</li><li>Each microfrontend can be developed, updated, and deployed independently.</li><li>This enables seamless integration and efficient maintenance.</li></ul>",
     "sourceLink": "https://github.com/actionanand/single-spa-demo-root-config",
     "demoLink": "https://ar-single-spa.onrender.com/",
     "tech": ["singl-spa", "angular", "css", "javascript", "react", "vue", "svelte"],
@@ -18,7 +18,7 @@
   },
   {
     "name": "Single Spa Angular project",
-    "description": "This is a angular Single-Spa root configuration application designed to orchestrate multiple microfrontend applications. It works in conjunction with eleven other repositories, each representing a microfrontend. Together, they form a modular and scalable application architecture where each microfrontend can be developed, updated, and deployed independently, enabling seamless integration and efficient maintenance.",
+    "description": "This is a angular Single-Spa root configuration application designed to orchestrate multiple microfrontend applications.<ul><li>It works in conjunction with eleven other repositories, each representing a microfrontend.</li><li>Together, they form a modular and scalable application architecture.</li><li>Each microfrontend can be developed, updated, and deployed independently.</li><li>This enables seamless integration and efficient maintenance.</li></ul>",
     "sourceLink": "https://github.com/actionanand/single-spa-angular-root-config",
     "demoLink": "https://single-spa-angular.onrender.com/",
     "tech": ["angular", "singl-spa", "css", "react", "vue", "svelte", "javascript"],
