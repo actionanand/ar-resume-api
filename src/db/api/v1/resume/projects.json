@@ -2,7 +2,6 @@
   {
     "name": "Cortellis Regulatory Intelligence",
     "description": "Clarivate is a global leader in providing trusted insights and analytics to accelerate innovation.<ul><li>It was formerly part of Thomson Reuters, specifically its Intellectual Property and Science division.</li><li>In 2016, this division was spun off and rebranded as Clarivate Analytics.</li><li>Cortellis Regulatory Intelligence (CRI) is a product offered by Clarivate that provides comprehensive regulatory intelligence solutions.</li><li>It is designed to help organizations stay compliant with global regulatory requirements by offering tools and insights for managing regulatory processes.</li></ul>",
-    "sourceLink": "https://github.com/actionanand/ar-portfolio",
     "demoLink": "https://www.cortellis.com/intelligence/suite/home/ri/all",
     "tech": ["angular", "single-spa", "oracle", "javascript", "typescript"],
     "image": "CLARIVATE_CRI",
@@ -25,40 +24,49 @@
     "image": "SSPA_NG"
   },
   {
-    "name": "React project",
-    "description": "it is a React project The Chihuahua is a Mexican breed of toy dog. It is named for the Mexican state of Chihuahua a",
-    "sourceLink": "https://github.com/actionanand/ar-portfolio",
-    "demoLink": "https://actionanand.github.io/ng-feature-pagination/ui-pagination",
-    "tech": ["react", "css", "html", "javascript"]
+    "name": "Angular with Docker",
+    "description": "Creating angular 17 project without installing anything in host machine with the help of docker.<ul><li>It uses Docker to create a containerized Angular development environment with being installed at host machine.</li></ul>",
+    "sourceLink": "https://github.com/actionanand/angular_with_docker",
+    "tech": ["Angular", "Docker", "javascript", "node js"]
   },
   {
-    "name": "Single Spa project 1",
-    "description": "123 The Chihuahua is a Mexican breed of toy dog. It is named for the Mexican state of Chihuahua and is among the smallest of all dog breeds. It is usually kept as a companion animal or for showing.",
-    "sourceLink": "https://github.com/actionanand/ar-portfolio",
-    "demoLink": "https://actionanand.github.io/ng-feature-pagination/ui-pagination",
-    "image": "singleSpa",
-    "tech": ["singl-spa", "angular", "css", "html", "javascript", "react"]
+    "name": "Infinite Scroll",
+    "description": "This is a simple infinite scroll card application built using Angular Material.<ul><li>It demonstrates the concept of infinite scrolling, where new mat cards & mat table rows are loaded as the user scrolls down.</li><li>It is a responsive design that works on all devices.</li><li>It is built using Angular Material, Angular Flex Layout, and Angular CDK.</li></ul>",
+    "sourceLink": "https://github.com/actionanand/angular-infinite-scroll",
+    "demoLink": "https://actionanand.github.io/angular-infinite-scroll/infinite-card",
+    "image": "INFINITE_SCROLL",
+    "tech": ["material", "angular", "css"]
   },
   {
-    "name": "Angular project 34",
-    "description": "it is a Angular project 34",
-    "sourceLink": "https://github.com/actionanand/ar-portfolio",
-    "demoLink": "https://actionanand.github.io/ng-feature-pagination/ui-pagination",
-    "tech": ["angular", "css", "html", "javascript"]
+    "name": "Currency Exchange Rate",
+    "description": "Currency exchange rate application built using Deno Fresh framework.<ul><li>It fetches the latest currency exchange rates from 'currencyscoop' API.</li><li>It is hosted on Deno Deploy.</li></ul>",
+    "sourceLink": "https://github.com/actionanand/fresh-currency-exchange-rate",
+    "demoLink": "https://fresh-currency-exchange.deno.dev/",
+    "image": "CURRENCY_EXCHANGE",
+    "tech": ["deno", "fresh", "typescript"]
   },
   {
-    "name": "React project 56",
-    "description": "it is a React project 56",
-    "sourceLink": "https://github.com/actionanand/ar-portfolio",
-    "demoLink": "https://actionanand.github.io/ng-feature-pagination/ui-pagination",
-    "tech": ["react", "css", "html", "javascript"]
+    "name": "Nokia Snake Game",
+    "description": "This is a mini game to learn about webassembly with the help of rust language. The concept is running old Nokia Snake game in web using rust.<ul><li>It is built using Rust and WebAssembly.</li><li>It is a simple game where the player controls a snake to eat food and grow longer.</li><li>It is a fun and educational project to learn about Rust and WebAssembly.</li></ul>",
+    "sourceLink": "https://github.com/actionanand/snake_game",
+    "demoLink": "https://actionanand.github.io/snake_game/",
+    "image": "SNAKE_GAME",
+    "tech": ["rust", "webassembly", "javascript"]
   },
   {
-    "name": "Single Spa project 023",
-    "description": "023 The Chihuahua is a Mexican breed of toy dog. It is named for the Mexican state of Chihuahua and is among the smallest of all dog breeds. It is usually kept as a companion animal or for showing.",
-    "sourceLink": "https://github.com/actionanand/ar-portfolio",
-    "demoLink": "https://actionanand.github.io/ng-feature-pagination/ui-pagination",
-    "image": "singleSpa",
-    "tech": ["angular", "css", "html", "javascript", "single-spa"]
+    "name": "Angular with Pug",
+    "description": "This is a simple Angular project built using Pug template engine.<ul><li>It demonstrates how to use Pug with Angular to create a clean and efficient codebase.</li><li>It is a responsive design that works on all devices.</li><li>It is built using Angular, Pug, and SCSS.</li></ul>",
+    "sourceLink": "https://github.com/actionanand/ng-pug-demo",
+    "demoLink": "https://actionanand.github.io/ng-pug-demo/pug",
+    "image": "PUG_ANGULAR",
+    "tech": ["angular", "pug", "scss"]
+  },
+  {
+    "name": "AR Flix",
+    "description": "AR Flix is a movie database application built using Angular and 'themoviedb' API. If application doesn't load properly, please connect to VPN with USA location, As the API is not available in other region sometimes.<ul><li>It fetches the latest movies and TV shows from The Movie Database API.</li><li>It is a responsive design that works on all devices.</li><li>It is built using Angular, Angular Material, and The Movie Database API.</li></ul>",
+    "sourceLink": "https://github.com/actionanand/ar-flix",
+    "demoLink": "https://actionanand.github.io/ar-flix/",
+    "image": "AR_FLIX",
+    "tech": ["angular", "material", "typescript"]
   }
 ]
