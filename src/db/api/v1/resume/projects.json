@@ -38,6 +38,14 @@
     "tech": ["material", "angular", "css"]
   },
   {
+    "name": "Angular Input Library",
+    "description": "This repository contains the source code for the Angular libraries (npm publishable) '@ng-ar/md-input', '@ng-ar/svg-icon', '@ng-ar/input' and '@ng-ar/bg-svg'.<ul><li>These libraries are designed to provide reusable, modular, and efficient components for building modern Angular applications.</li><li>It is built using Angular, Angular Material, and SCSS.</li><li>It is a responsive design that works on all devices.</li></ul>",
+    "sourceLink": "https://github.com/actionanand/angular-lib-demo",
+    "demoLink": "https://actionanand.github.io/angular-lib-demo/",
+    "image": "NG_INPUT_LIBRARY",
+    "tech": ["angular", "material", "typescript"]
+  },
+  {
     "name": "Currency Exchange Rate",
     "description": "Currency exchange rate application built using Deno Fresh framework.<ul><li>It fetches the latest currency exchange rates from 'currencyscoop' API.</li><li>It is hosted on Deno Deploy.</li></ul>",
     "sourceLink": "https://github.com/actionanand/fresh-currency-exchange-rate",
@@ -68,5 +76,29 @@
     "demoLink": "https://actionanand.github.io/ar-flix/",
     "image": "AR_FLIX",
     "tech": ["angular", "material", "typescript"]
+  },
+  {
+    "name": "Forecast AngularJS",
+    "description": "This is a simple weather forecast application built using AngularJS with modern webpack approach and ES6.<ul><li>It fetches the weather data from 'openweathermap' API.</li><li>It is a responsive design that works on all devices.</li><li>It is built using AngularJS, Bootstrap, and CSS.</li></ul>",
+    "sourceLink": "https://github.com/actionanand/forecast",
+    "demoLink": "https://actionanand.github.io/forecast",
+    "image": "FORECAST_ANGULARJS",
+    "tech": ["angularjs", "bootstrap", "css"]
+  },
+  {
+    "name": "Custom Pagination",
+    "description": "This is a simple custom pagination application along with translation built using Angular Material.<ul><li>It demonstrates the concept of custom pagination, where mat pagination is customized to look like button.</li><li>This pagination is designed for both server side and UI as well.</li></ul>",
+    "sourceLink": "https://github.com/actionanand/ng-feature-pagination",
+    "demoLink": "https://actionanand.github.io/ng-feature-pagination/server-pagination",
+    "image": "CUSTOM_PAGINATION",
+    "tech": ["angular", "material", "typescript"]
+  },
+  {
+    "name": "Simple Ionic App",
+    "description": "This is a simple Ionic application built using Ionic framework with Angular.<ul><li>It demonstrates the concept of building a mobile application using Ionic with the help of Angular.</li><li>It is a responsive design that works on all devices.</li></ul>",
+    "sourceLink": "https://github.com/actionanand/ionic-angular-app",
+    "demoLink": "https://actionanand.github.io/ionic-angular-app/recipe",
+    "image": "IONIC",
+    "tech": ["ionic", "angular", "typescript"]
   }
 ]
