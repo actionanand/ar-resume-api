@@ -34,11 +34,11 @@
     "duration": ["June 08 2020", "Jan 05 2021"],
     "technologies": ["Angular", "Single-spa", "NodeJS", "Javascript"],
     "summary": [
-      "Fixed the unresolved bugs in reasonable time",
-      "Developed a library based angular application for resuable components",
+      "Resolved existing bugs promptly upon joining Clarivate",
+      "Developed a library-based angular application for reusable components",
       "Migrated weekly alerts section to Angular from Angular JS",
-      "Worked with customized material based navigation in Angular",
-      "Refactorred the code & removed unwanted css styles to improve the performance"
+      "Tailored the Material navigation component using Material CDK to achieve a button-like appearance",
+      "Refactored the code & removed unwanted CSS styles to improve the performance"
     ]
   },
   {
@@ -54,7 +54,7 @@
       "CRI enables users to access, analyze, and manage global regulatory information efficiently",
       "Upgraded the CRI application from Angular 6 to Angular 9",
       "Worked extensively on micro frontend architecture with single-spa",
-      "Redifined a way of cross application communication",
+      "Redefined a way of cross-application communication",
       "Developed a feature to manage states between the micro frontends",
       "Enhanced the application to manage the user authentication between the micro frontends"
     ]
@@ -69,11 +69,11 @@
     "summary": [
       "Currently collaborating with the Clarivate Barcelona team on AI implementation projects at Clarivate",
       "Upgraded the CRI application from Angular 9 to Angular 18",
-      "rewrote deprecated third party libraries to the latest version",
-      "Handled all the deprecation and migrated to material m3",
+      "Replaced deprecated third-party libraries with custom implementations to ensure compatibility with the latest Angular version when updates were unavailable",
+      "Addressed all deprecations and successfully migrated the application to Material Design 3 (M3)",
       "Rewrote single-spa configuration to handle the new micro frontends",
-      "Rewrote the code to support new signals and other new angular features",
-      "Managing Django based backend (Delivery Program Tool) for the RICS (Regulatory Intelligence Compliance System) application"
+      "Refactored the codebase to incorporate new signals and leverage the latest Angular features",
+      "Overseeing the maintenance of the Delivery Program Tool, built with Django, for the RICS (Regulatory Intelligence Compliance System) Team"
     ]
   }
 ]
