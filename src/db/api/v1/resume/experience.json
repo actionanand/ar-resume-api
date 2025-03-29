@@ -7,9 +7,11 @@
     "duration": ["Nov 08 2017", "Oct 09 2019"],
     "technologies": ["LTE", "VOLTE", "R4", "Macro", "Postgres"],
     "summary": [
-      "Working for R4 and LTE projects for Belgacom (Proximus)",
-      "Developed a automated tool for Belgacom (Proximus) to reduce the manual effort",
-      "Handling Postgres DB for the project"
+      "Contributed to NOKIA's R4 NEs (release 4 Network Elements) & STP (Spanning Tree Protocol), as well as VoLTE projects for Belgacom (Proximus)",
+      "In the VoLTE domain, worked extensively with CDMA, PCRF, HSS, MGW, and CSCF components",
+      "In the R4 domain, gained hands-on experience with MSS, HLR, VLR, MGW, STP, CDS, SMSC, and BICC",
+      "Developed an automated tool for Proximus to minimize manual effort in report creation",
+      "Managed PostgreSQL database operations for the Proximus project"
     ]
   },
   {
@@ -20,8 +22,8 @@
     "duration": ["Oct 09 2019", "June 08 2020"],
     "technologies": ["Angular", "RoR", "Postgres", "Javascript"],
     "summary": [
-      "Working for HCL homegrown social network called \"Meme\" to collaborate with the employees",
-      "Used latest technologies to develop the application"
+      "Contributed to HCL's homegrown social network platform, \"Meme\", designed to enhance employee collaboration",
+      "Leveraged cutting-edge technologies to design and develop the application"
     ]
   },
   {
@@ -34,7 +36,7 @@
     "summary": [
       "Fixed the unresolved bugs in reasonable time",
       "Developed a library based angular application for resuable components",
-      "Migrated weekly alerts to Angular from Angular JS",
+      "Migrated weekly alerts section to Angular from Angular JS",
       "Worked with customized material based navigation in Angular",
       "Refactorred the code & removed unwanted css styles to improve the performance"
     ]
@@ -47,8 +49,10 @@
     "duration": ["Jan 06 2021", "March 31 2024"],
     "technologies": ["Angular", "Single-spa", "Oracle", "Javascript", "Typescript"],
     "summary": [
-      "The Product was CRI (Cortellis Regulatory Intelligence) which is a web application",
-      "Migrated Angular 6 to Angular 9",
+      "Contributing to the development and enhancement of CRI (Cortellis Regulatory Intelligence) and the Delivery Program Tool within RICS (Regulatory Intelligence Compliance System) at Clarivate",
+      "The product, CRI, is a comprehensive web-based application designed to provide regulatory intelligence and compliance solutions",
+      "CRI enables users to access, analyze, and manage global regulatory information efficiently",
+      "Upgraded the CRI application from Angular 6 to Angular 9",
       "Worked extensively on micro frontend architecture with single-spa",
       "Redifined a way of cross application communication",
       "Developed a feature to manage states between the micro frontends",
@@ -63,12 +67,13 @@
     "duration": ["April 01 2024"],
     "technologies": ["Angular", "Single-spa", "NodeJS", "Python", "Oracle", "Postgres", "Javascript", "Typescript"],
     "summary": [
-      "Migrated Angular 9 to Angular 18",
+      "Currently collaborating with the Clarivate Barcelona team on AI implementation projects at Clarivate",
+      "Upgraded the CRI application from Angular 9 to Angular 18",
       "rewrote deprecated third party libraries to the latest version",
       "Handled all the deprecation and migrated to material m3",
       "Rewrote single-spa configuration to handle the new micro frontends",
       "Rewrote the code to support new signals and other new angular features",
-      "Managing Django based backend for the RICS (Regulatory Intelligence Compliance System) application"
+      "Managing Django based backend (Delivery Program Tool) for the RICS (Regulatory Intelligence Compliance System) application"
     ]
   }
 ]
